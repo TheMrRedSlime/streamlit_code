@@ -1,6 +1,4 @@
-streamlit
-numpy
-pandas
-geopy
-beautifulsoup4
-networkx
+matplotlib==3.10.6
+networkx==3.5
+streamlit==1.49.1
+textblob==0.19.0
